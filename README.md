@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samueltlyon
 - 👀 I’m interested in all things information technology.
 - 🌱 I’m currently learning more about coding and computer science.
-- 💞️ I’m looking to collaborate on not applicable. Yet.
+- 💞️ I’m looking to collaborate on nothing. For the moment.
 - 📫 How to reach me: samuel.lyon@outlook.com
 
 <!---
