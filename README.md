@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @samueltlyon
-- 👀 I’m interested in ... All thing information technology.
-- 🌱 I’m currently learning ... More about coding and computer science.
-- 💞️ I’m looking to collaborate on ... Not applicable.
-- 📫 How to reach me ... samuel.lyon@outlook.com
+- 👀 I’m interested in all things information technology.
+- 🌱 I’m currently learning more about coding and computer science.
+- 💞️ I’m looking to collaborate on not applicable. Yet.
+- 📫 How to reach me: samuel.lyon@outlook.com
 
 <!---
 samueltlyon/samueltlyon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
